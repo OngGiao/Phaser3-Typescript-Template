@@ -21,7 +21,7 @@ Select a folder, navigate to it, and clone this repository
 with this command-line:
 
 ```
-git clone https://github.com/digitsensitive/phaser3-typescript.git
+git clone https://github.com/digitsensitive/phaser3-typescript.git [your project name]
 ```
 
 Install the dependencies with this command-line:
