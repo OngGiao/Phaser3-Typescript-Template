@@ -32,7 +32,7 @@ npm install
 
 ### Building and Running
 
-Perform a quick build (bundle.js) and start server:
+Perform a quick build (dist/app.js) and start server:
 
 ```
 npm run dev
